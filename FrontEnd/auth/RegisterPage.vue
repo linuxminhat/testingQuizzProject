@@ -1,3 +1,4 @@
+//fix registerPage
 <template>
     <Header />
 
